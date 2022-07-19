@@ -1,5 +1,6 @@
 public class LowestCommonAncestorOfBST {
     public static void main(String[] args) {
+        // Update test data based on test cases
         TreeNode root = new TreeNode(6);
         TreeNode node = root;
         node.left = new TreeNode(2);
